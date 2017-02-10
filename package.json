@@ -1,0 +1,19 @@
+{
+  "name": "mugibot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "cheerio": "latest",
+    "querystring": "latest",
+    "request": "latest",
+    "restify": "^4.3.0",
+    "xml2js": "^0.4.17"
+  },
+  "engines": {
+    "node": "6.9.2"
+  }
+}
